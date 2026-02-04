@@ -47,6 +47,6 @@ let mapleader=" "     " Leader 키를 스페이스바로 설정
 nnoremap <leader>w :w<CR> " <Space> + w로 저장
 nnoremap <leader>q :q<CR> " <Space> + q로 종료
 
-let g:gruvbox_italic=1
+" let g:gruvbox_italic=1
 colorscheme gruvbox
 set background=dark " Or set background=light
